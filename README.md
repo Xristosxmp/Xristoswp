@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Java Swing Applications
-🌱 I’m currently learning Java
-⚡ Fun fact: Java is Easier than it looks.
- 📫 How to reach me: +306989829212 or cotthebot.uop@gmail.com
+- 🔭 I’m currently working on Java Swing Applications
+- 🌱 I’m currently learning Java
+- ⚡ Fun fact: Java is Easier than it looks.
+- 📫 How to reach me: +306989829212 or cotthebot.uop@gmail.com
 <!--
 **Xristoswp/Xristoswp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
