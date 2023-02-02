@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Java Swing Applications
-- 🌱 I’m currently learning Java
-- ⚡ Fun fact: Java is Easier than it looks.
+- 🔭 New Projects Coming Soon.
 <!--
 **Xristoswp/Xristoswp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
