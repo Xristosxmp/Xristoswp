@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 New Projects Coming Soon.
+- 🔭 CS Java
 <!--
 **Xristoswp/Xristoswp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
