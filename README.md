@@ -1,2 +1,2 @@
-- ![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))] @xristosxmp
+- ![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram)) @xristosxmp
 - 
