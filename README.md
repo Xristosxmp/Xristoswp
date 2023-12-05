@@ -1,2 +1,2 @@
-- ![instagram]([https://www.instagram.com/xristosxmp/] (Instagram)) @xristosxmp
+- [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2] @xristosxmp
 - 
